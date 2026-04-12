@@ -2,14 +2,14 @@
 
 
 
-## 🩺 Detecting Lung Cancer Using Patient Diagnosis Data
+## Detecting receipe star reviews dataset
 
-This project applies **data science and machine learning** techniques to predict patient survival outcomes based on diagnostic and treatment data.
+This project applies **data science and machine learning** techniques to predict patient survival outcomes based on receipes and reviews data.
 It includes **EDA, preprocessing, outlier handling, feature encoding, model training, and evaluation** using multiple algorithms.
 
 ---
 
-### 🚀 Project Workflow
+###  Project Workflow
 
 1. **Data Preprocessing**
 
@@ -39,23 +39,16 @@ It includes **EDA, preprocessing, outlier handling, feature encoding, model trai
    * ROC curve visualization
    * Model comparison table
 
-5. **Model Saving**
 
-   * Best model saved as `best_model_pipeline.pkl`
-   * Model comparison saved as `model_comparison.csv`
-
----
-
-### 🧠 Tech Stack
+### Technical Stack
 
 * **Python**
 * **Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib**
 * **XGBoost (optional)**
 * **Jupyter Notebook**
 
----
 
-### 📁 Files
+###  Files
 
 | File                            | Description                                         |
 | ------------------------------- | --------------------------------------------------- |
@@ -65,7 +58,7 @@ It includes **EDA, preprocessing, outlier handling, feature encoding, model trai
 
 ---
 
-### 💡 Key Insights
+###  Key Insights
 
 * The dataset required extensive preprocessing and balancing due to class imbalance.
 * Tree-based models (Random Forest, Gradient Boosting, XGBoost) performed best.
