@@ -52,7 +52,7 @@ It includes **EDA, preprocessing, outlier handling, feature encoding, model trai
 
 | File                            | Description                                         |
 | ------------------------------- | --------------------------------------------------- |
-| `recipe+reviews+and+user+feedback+dataset.csv  | Review feedback dataset                             |
+| `recipe+reviews+and+user+feedback+dataset.csv`  | Review feedback dataset                             |
 | `Review dataset.ipynb` | Main notebook with EDA, model building & evaluation |
 | `README.md`                     | Project overview                                    |
 
