@@ -62,6 +62,6 @@ It includes **EDA, preprocessing, outlier handling, feature encoding, model trai
 
 * The dataset required extensive preprocessing and balancing due to class imbalance.
 * Tree-based models (Random Forest, Gradient Boosting, XGBoost) performed best.
-* The workflow ensures full reproducibility and scalability for healthcare prediction use cases.
+* The workflow ensures full reproducibility and scalability for review prediction use cases.
 
 ---
